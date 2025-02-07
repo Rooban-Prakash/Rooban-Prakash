@@ -111,7 +111,7 @@ Wireshark Certified Network Analyst (WCNA) (In Progress)
 
 Hack The Box - Threat Hunting Path (Active)
 
-Top 10% in TryHackMe Cyber Defense Challenges
+Top 2% in TryHackMe Cyber Defense Challenges
 
 
 
