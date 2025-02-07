@@ -20,7 +20,7 @@ Welcome to my **Cybersecurity Portfolio**! I specialize in **Security Operations
 
 ## 🛡️ **About Me**  
 
-```yaml
+
 Current Role: Security Analyst (SOC & DLP) 🏴‍☠️  
 Experience: 2+ Years  
 Specialty: Threat Detection, SIEM, Incident Response, Security Automation  
